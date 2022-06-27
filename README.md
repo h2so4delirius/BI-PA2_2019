@@ -1,5 +1,5 @@
 # BI-PA2_2019
-#Programování a algoritmizace 2
+>Programování a algoritmizace 2
 hodnoceni
 1 5/5
 2 5/5
